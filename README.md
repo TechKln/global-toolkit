@@ -26,7 +26,7 @@ Key:
 - [Signal](https://signal.org/)
 
 ### VPN
-- [ProtonVPN](https://protonvpn.com/)
+- [ProtonVPN](https://protonvpn.com/)🆓
 - [TunnelBear](https://www.tunnelbear.com/)
 - [NordVPN](https://nordvpn.com/)
 
@@ -46,7 +46,7 @@ Key:
 - [Spotify](https://www.spotify.com) (audio) 💸📌🕸📱🖥
 - [Deezer](https://www.deezer.com/en/) (audio) 🆓📱
 - [Boomplay](https://www.boomplaymusic.com/) (audio) 🆓
-- [Soundcloud](https://soundcloud.com/)
+- [Soundcloud](https://soundcloud.com/)🆓
 
 ### Player
 - [Boom](https://www.globaldelight.com/boom/) (3D surround sound) 📱🖥
@@ -68,7 +68,7 @@ Key:
 ## Writing and Written content
 
 ### ~~Editting~~ Editing
-- [Grammarly](https://app.grammarly.com/)
+- [Grammarly](https://app.grammarly.com/)🕸🖥
 
 ### Note-taking
 - [Notion](https://www.notion.so/)
