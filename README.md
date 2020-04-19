@@ -19,6 +19,11 @@ Key:
 - [Snapchat](https://www.snapchat.com/)
 - [Instagram](https://www.instagram.com/)
 - [Tiktok](https://www.tiktok.com)
+- [Pinterest](https://www.pinterest.com/)
+
+## Online shopping
+- [Jumia](https://www.jumia.com/)
+- [Skygarden](https://sky.garden/)
 
 ## Messaging
 - [Whatsapp](https://www.whatsapp.com/)
@@ -78,6 +83,10 @@ Key:
 ### Collections
 - [Pocket](https://getpocket.com/) (written and other content)
 
+### Transcribing
+- [descript](https://www.descript.com/)
+- [Live transctibe](https://www.android.com/accessibility/live-transcribe/)
+
 ### Blogging
 - [Medium](https://medium.com)
 - [Hashnode](https://hashnode.com/)
@@ -93,7 +102,10 @@ Key:
 ## General
 
 ### How-to
-[Wikihow]()
+[Wikihow](https://www.wikihow.com/Main-Page)
+
+### Dating
+- [Tinder](https://tinder.com)
 
 ### Scheduling
 - [Google Calendar](https://calendar.google.com)
@@ -116,9 +128,10 @@ Key:
 - [Skillshare](https://skillshare.com/) (A range of skills)
 
 ### Community
-- [Slack]()
-- [Discord]()
+- [Slack](https://slack.com/)
+- [Discord](https://discordapp.com/)
 - [Stackoverflow](https://stackoverflow.com/)
+- [Gitter](https://gitter.im/)
 
 ### Courier
 - [FedEx](https://www.fedex.com/)
@@ -126,7 +139,7 @@ Key:
 - [DHL](https://www.dhl.com/)
 
 ### Shipping to Kenya
-- Amazon shipping
+- [Vitumob](https://vitumob.com/)
 - [My US](https://www.myus.com/ke)
 - [Savostore](https://www.savostore.com/)
 - [Statesduka](https://statesduka.com/)
@@ -140,9 +153,12 @@ Key:
 [Devdocs](https://devdocs.io/)
 
 ### Interview Prep
-- Algoexpert
+- [Algoexpert](https://www.algoexpert.io/product)
 
 ### Code editors
 - [VS code](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
-- []()
+
+### Technical writing gigs
+- [Scotchio](https://scotch.io/)
+- [CircleCI Guest Writers Program](https://circle.ci/3ahQxfu)
