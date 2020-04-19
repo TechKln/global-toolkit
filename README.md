@@ -30,8 +30,8 @@ Key:
 - [Messenger](https://www.messenger.com)
 - [Signal](https://signal.org/)
 
-### VPN
-- [ProtonVPN](https://protonvpn.com/)🆓
+## VPN
+- [ProtonVPN](https://protonvpn.com/) 🆓
 - [TunnelBear](https://www.tunnelbear.com/)
 - [NordVPN](https://nordvpn.com/)
 
@@ -51,7 +51,7 @@ Key:
 - [Spotify](https://www.spotify.com) (audio) 💸📌🕸📱🖥
 - [Deezer](https://www.deezer.com/en/) (audio) 🆓📱
 - [Boomplay](https://www.boomplaymusic.com/) (audio) 🆓
-- [Soundcloud](https://soundcloud.com/)🆓
+- [Soundcloud](https://soundcloud.com/) 🆓
 
 ### Player
 - [Boom](https://www.globaldelight.com/boom/) (3D surround sound) 📱🖥
@@ -76,43 +76,46 @@ Key:
 - [Grammarly](https://app.grammarly.com/)🕸🖥
 
 ### Note-taking
-- [Notion](https://www.notion.so/)
-- [Evernote](https://evernote.com/)
-- [Dropbox Paper](https://paper.dropbox.com)
+- [Notion](https://www.notion.so/) 🕸📱🖥
+- [Evernote](https://evernote.com/) 📱
+- [Dropbox Paper](https://paper.dropbox.com) 📱🖥
 
 ### Collections
-- [Pocket](https://getpocket.com/) (written and other content)
+- [Pocket](https://getpocket.com/) (written and other content) 🕸📱
 
 ### Transcribing
 - [descript](https://www.descript.com/)
 - [Live transctibe](https://www.android.com/accessibility/live-transcribe/)
 
 ### Blogging
-- [Medium](https://medium.com)
-- [Hashnode](https://hashnode.com/)
-- [Dev.to](https://dev.to/)
+- [Medium](https://medium.com) 🕸📱
+- [Hashnode](https://hashnode.com/) 🕸
+- [Dev.to](https://dev.to/) 🕸
 
 ### Vocabulary
-- [urbandictionary](https://www.urbandictionary.com/)
-- [dictionary.com](https://www.dictionary.com/)
-- [Oxford Dictionary](https://www.oed.com)
-- [Cambridge dictionary](https://dictionary.cambridge.org/)
-- [Webster](https://www.merriam-webster.com/)
+- [urbandictionary](https://www.urbandictionary.com/) 🕸
+- [dictionary.com](https://www.dictionary.com/) 🕸
+- [Oxford Dictionary](https://www.oed.com) Paperback
+- [Cambridge dictionary](https://dictionary.cambridge.org/) 🕸
+- [Webster](https://www.merriam-webster.com/) 🕸
 
 ## General
 
 ### How-to
-[Wikihow](https://www.wikihow.com/Main-Page)
+[Wikihow](https://www.wikihow.com/Main-Page) 🕸📱
 
 ### Dating
-- [Tinder](https://tinder.com)
+- [Tinder](https://tinder.com) 📱
 
 ### Scheduling
-- [Google Calendar](https://calendar.google.com)
-- [Calendly](https://calendly.com/)
+- [Google Calendar](https://calendar.google.com) 🕸📱
+- [Calendly](https://calendly.com/) 🕸
 
 ### Career
 - [LinkedIn](https://linkedin.com)
+
+### Donating
+- [Ko-fi](https://ko-fi.com/)
 
 ### Customers
 #### Newsletter
