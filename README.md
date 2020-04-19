@@ -1,3 +1,7 @@
+Since TechKenyans is a community around the idea that *Technology is a toolkit to enable you to go about your life efficiently and help you do your best work*, I decided to create this live list of technological tools.
+
+The list cuts across a number of disciplines and will highlight if they are free and when they are not telling you how much it demands and worthy alternatives. PRs are open to give feedback and propose suggestions.
+
 # Global Toolkit
 
 Key:
