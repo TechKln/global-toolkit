@@ -20,6 +20,7 @@ Key:
 - [Instagram](https://www.instagram.com/)
 - [Tiktok](https://www.tiktok.com)
 - [Pinterest](https://www.pinterest.com/)
+- [Reddit](https://www.reddit.com/)
 
 ## Online shopping
 - [Jumia](https://www.jumia.com/)
@@ -79,6 +80,7 @@ Key:
 - [Notion](https://www.notion.so/) 🕸📱🖥
 - [Evernote](https://evernote.com/) 📱
 - [Dropbox Paper](https://paper.dropbox.com) 📱🖥
+- [Google Keep](keep.google.com) 📱🖥
 
 ### Collections
 - [Pocket](https://getpocket.com/) (written and other content) 🕸📱
@@ -151,16 +153,19 @@ Key:
 ## Development
 - [Github](https://github.com)
 - [Gitlab](https://about.gitlab.com/)
+- [Bitbucket](https://bitbucket.org)
 
 ### Documentation
 [Devdocs](https://devdocs.io/)
 
 ### Interview Prep
 - [Algoexpert](https://www.algoexpert.io/product)
+- [Interviewcake](interviewcake.com)
 
 ### Code editors
 - [VS code](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/3)
 
 ### Technical writing gigs
 - [Scotchio](https://scotch.io/)
