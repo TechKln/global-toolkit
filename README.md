@@ -173,3 +173,7 @@ Key:
 
 ### Security
 - [1.1.1.1](https://1.1.1.1/)
+- [1Password](https://1password.com/?ref=techKenyans)
+
+### Productivity
+- [Alfred 3](https://www.alfredapp.com/?ref=techKenyans)
