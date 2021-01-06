@@ -115,6 +115,7 @@ Key:
 
 ### Career
 - [LinkedIn](https://linkedin.com)
+- [CV](https://read.cv)
 
 ### Donating
 - [Ko-fi](https://ko-fi.com/)
