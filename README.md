@@ -31,6 +31,12 @@ Key:
 - [Messenger](https://www.messenger.com)
 - [Signal](https://signal.org/)
 
+## Video conferencing
+- [GoTeam](https://goteam.video/)
+- [Zoom](https://zoom.us/)
+- [Skype](https://www.skype.com/en/business/)
+- [Google Hangouts](https://hangouts.google.com/) 🪦
+
 ## VPN
 - [ProtonVPN](https://protonvpn.com/) 🆓
 - [TunnelBear](https://www.tunnelbear.com/)
