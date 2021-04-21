@@ -6,12 +6,14 @@ The list cuts across a number of disciplines and will highlight if they are free
 
 Key:
 - (x) - *x* stands for the primary area of use
-- 💸- Paid (No free subscription)
-- 🆓- Free (is FREE but can include paid subscriptions)
-- 📌- Location restricted
-- 🕸- Available on the web
-- 📱- Mobile app
-- 🖥- Desktop
+- 💸 - Paid (No free subscription)
+- 🆓 - Free (is FREE but can include paid subscriptions)
+- 🔖 - If Free, runs adds
+- 📌 - Location restricted
+- 🕸 - Available on the web
+- 📱 - Mobile app
+- 🖥 - Desktop
+- 📲 - PWA*
 
 ## Social media
 - [Twitter](https://twitter.com)
@@ -23,40 +25,42 @@ Key:
 - [Reddit](https://www.reddit.com/)
 
 ## Online shopping
-- [Jumia](https://www.jumia.com/)
-- [Skygarden](https://sky.garden/)
+- [Jumia](https://www.jumia.com/) 🕸
+- [Skygarden](https://sky.garden/) 🕸
 
 ## Messaging
-- [Whatsapp](https://www.whatsapp.com/)
+- [Whatsapp](https://www.whatsapp.com/) 🕸 📱 🖥
 - [Messenger](https://www.messenger.com)
-- [Signal](https://signal.org/)
+- [Signal](https://signal.org/) 🕸 🖥 📱
 
 ## VPN
 - [ProtonVPN](https://protonvpn.com/) 🆓
 - [TunnelBear](https://www.tunnelbear.com/)
 - [NordVPN](https://nordvpn.com/)
 
-## Media - Music (audio, video), podcasts
+## Media - Music (audio, video), podcasts, images
 ### Distribution
-- [Distrokid](https://distrokid.com/plan/) (audio)💸🕸
+- [Distrokid](https://distrokid.com/plan/) (audio) 💸 🕸
 - [Restream](https://restream.io/) (live video)
 - [AnchorFM](https://anchor.fm/) (podcasts)
 - [Twitch](https://www.twitch.tv/)
 
-### Sharing
-- [Youtube](https://www.youtube.com/) (video)
-- [Vimeo](https://vimeo.com/) (video)
-- [Curiositystream](https://curiositystream.com/)
+### Live stream, Sharing
+- [Youtube](https://www.youtube.com/)
+- [Vimeo](https://vimeo.com/)
+
+### Viewing
+- [Curiositystream](https://curiositystream.com/) (documentaries, entertainment)
 
 ### Streaming
-- [Spotify](https://www.spotify.com) (audio) 💸📌🕸📱🖥
-- [Deezer](https://www.deezer.com/en/) (audio) 🆓📱
+- [Spotify](https://www.spotify.com) (audio) 🆓 🔖 📌 🕸 📱 🖥
+- [Deezer](https://www.deezer.com/en/) (audio) 🆓 📱
 - [Boomplay](https://www.boomplaymusic.com/) (audio) 🆓
 - [Soundcloud](https://soundcloud.com/) 🆓
 
 ### Player
-- [Boom](https://www.globaldelight.com/boom/) (3D surround sound) 📱🖥
-- [Play music](https://play.google.com/music/listen) (audio) 📌🕸📱
+- [Boom](https://www.globaldelight.com/boom/) (3D surround sound) 📱 🖥
+- [Play music](https://play.google.com/music/listen) (audio) 📌 🕸 📱
 
 ### Music discovery
 - [Shazam](https://www.shazam.com/) 📱
@@ -68,29 +72,38 @@ Key:
 - [Genius](https://genius.com/)
 
 ### Podcasts
-- [Google podcasts](https://podcasts.google.com/) 🕸📱
+- [Google podcasts](https://podcasts.google.com/) 🕸 📱
 - [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) 📱
+
+### Image
+- [Cloudinary](https://demo.cloudinary.com/) 🕸 - can be integrated in apps using [SDKs](https://cloudinary.com/documentation/cloudinary_sdks)*
+    
+    This offers several options like:
+    - [Optimization](https://demo.cloudinary.com/default) - Size, Quality
+    - [Automatic Content-Aware cropping](https://demo.cloudinary.com/auto-gravity) - Intelligently crop images on-the-fly based on auto-detected regions of interest
+    - ... etc
+- [Picresize](https://picresize.com/) 🕸 - For precise percentage resizing - -25%, -50%, -75% etc
 
 ## Writing and Written content
 
 ### ~~Editting~~ Editing
-- [Grammarly](https://app.grammarly.com/)🕸🖥
+- [Grammarly](https://app.grammarly.com/)🕸 🖥
 
 ### Note-taking
-- [Notion](https://www.notion.so/) 🕸📱🖥
+- [Notion](https://www.notion.so/) 🕸 📱 🖥
 - [Evernote](https://evernote.com/) 📱
-- [Dropbox Paper](https://paper.dropbox.com) 📱🖥
-- [Google Keep](keep.google.com) 📱🖥
+- [Dropbox Paper](https://paper.dropbox.com) 📱 🖥
+- [Google Keep](keep.google.com) 📱 🖥
 
 ### Collections
-- [Pocket](https://getpocket.com/) (written and other content) 🕸📱
+- [Pocket](https://getpocket.com/) (written and other content) 🕸 📱
 
 ### Transcribing
 - [descript](https://www.descript.com/)
 - [Live transctibe](https://www.android.com/accessibility/live-transcribe/)
 
 ### Blogging
-- [Medium](https://medium.com) 🕸📱
+- [Medium](https://medium.com) 🕸 📱
 - [Hashnode](https://hashnode.com/) 🕸
 - [Dev.to](https://dev.to/) 🕸
 
@@ -101,16 +114,19 @@ Key:
 - [Cambridge dictionary](https://dictionary.cambridge.org/) 🕸
 - [Webster](https://www.merriam-webster.com/) 🕸
 
+### Content Platform
+- [Docusaurus](https://docusaurus.io/)
+
 ## General
 
 ### How-to
-[Wikihow](https://www.wikihow.com/Main-Page) 🕸📱
+[Wikihow](https://www.wikihow.com/Main-Page) 🕸 📱
 
 ### Dating
 - [Tinder](https://tinder.com) 📱
 
 ### Scheduling
-- [Google Calendar](https://calendar.google.com) 🕸📱
+- [Google Calendar](https://calendar.google.com) 🕸 📱
 - [Calendly](https://calendly.com/) 🕸
 
 ### Career
@@ -144,6 +160,7 @@ Key:
 - [DHL](https://www.dhl.com/)
 
 ### Shipping to Kenya
+- [Shop&Ship](http://shopandship.com/) - Ships Globally
 - [Vitumob](https://vitumob.com/)
 - [My US](https://www.myus.com/ke)
 - [Savostore](https://www.savostore.com/)
@@ -151,19 +168,20 @@ Key:
 - [Kentexcargo](https://kentexcargo.com/blog/ship-kenya-usa/)
 
 ## Development
-- [Github](https://github.com)
-- [Gitlab](https://about.gitlab.com/)
+- [GitHub](https://github.com)
+- [GitLab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.org)
 
 ### Documentation
-[Devdocs](https://devdocs.io/)
+- [Devdocs](https://devdocs.io/)
 
 ### Interview Prep
-- [Algoexpert](https://www.algoexpert.io/product)
-- [Interviewcake](interviewcake.com)
+- [Algoexpert](https://www.algoexpert.io/product) (Programming)
+- [Interviewcake](https://interviewcake.com) (Programming)
 
 ### Code editors
 - [VS code](https://code.visualstudio.com/)
+- [VSCodium](https://vscodium.com/) - a community-driven, freely-licensed binary distribution of Microsoft’s editor VSCode
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/3)
 
@@ -173,3 +191,10 @@ Key:
 
 ### Security
 - [1.1.1.1](https://1.1.1.1/)
+
+---
+
+## Glossary:
+
+- **SDK** - Software Development Kit
+- **PWA** - [Progressive Web App](https://web.dev/what-are-pwas/)
