@@ -44,13 +44,19 @@ Key:
 - [TunnelBear](https://www.tunnelbear.com/)
 - [NordVPN](https://nordvpn.com/)
 
+## Password Managers
+
+- [Bitwarden](https://bitwarden.com/) (Open Source)
+- [DashLane](https://www.dashlane.com/)
+- [Proton Pass](https://proton.me/pass) (In Beta)
+
 ## Media - Music (audio, video), podcasts, images
 
 ### Distribution
 
-- [Distrokid](https://distrokid.com/plan/) (audio) 💸 🕸
+- [Distrokid](https://distrokid.com/) (audio) 💸 🕸
 - [Restream](https://restream.io/) (live video)
-- [AnchorFM](https://anchor.fm/) (podcasts)
+- [Spotify for Podcasters](https://podcasters.spotify.com/) (podcasts)
 - [Twitch](https://www.twitch.tv/)
 
 ### Live stream, Sharing
@@ -61,18 +67,20 @@ Key:
 ### Viewing
 
 - [Curiositystream](https://curiositystream.com/) (documentaries, entertainment)
+- [Nebula TV](https://nebula.tv/)
 
 ### Streaming
 
-- [Spotify](https://www.spotify.com) (audio) 🆓 🔖 📌 🕸 📱 🖥
+- [Spotify](https://www.spotify.com) (audio) (Also has [podcasts](#podcasts)) 🆓 🔖 📌 🕸 📱 🖥
 - [Deezer](https://www.deezer.com/en/) (audio) 🆓 📱
 - [Boomplay](https://www.boomplaymusic.com/) (audio) 🆓
 - [Soundcloud](https://soundcloud.com/) 🆓
 
 ### Player
 
+- [VLC](https://www.videolan.org/vlc/)
 - [Boom](https://www.globaldelight.com/boom/) (3D surround sound) 📱 🖥
-- [Play music](https://play.google.com/music/listen) (audio) 📌 🕸 📱
+- [Youtube music](https://music.youtube.com) (audio) 📌 🕸 📱
 
 ### Music discovery
 
@@ -88,7 +96,7 @@ Key:
 ### Podcasts
 
 - [Google podcasts](https://podcasts.google.com/) 🕸 📱
-- [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) 📱
+- [Pocket Casts](https://pocketcasts.com/) 📱
 
 ### Image
 
@@ -103,14 +111,14 @@ Key:
 
 ### ~~Editting~~ Editing
 
-- [Grammarly](https://app.grammarly.com/)🕸 🖥
+- [Grammarly](https://grammarly.com/)🕸 🖥
 
 ### Note-taking
 
 - [Notion](https://www.notion.so/) 🕸 📱 🖥
 - [Evernote](https://evernote.com/) 📱
 - [Dropbox Paper](https://paper.dropbox.com) 📱 🖥
-- [Google Keep](keep.google.com) 📱 🖥
+- [Google Keep](https://keep.google.com) 📱 🖥
 
 ### Collections
 
@@ -119,7 +127,7 @@ Key:
 ### Transcribing
 
 - [descript](https://www.descript.com/)
-- [Live transctibe](https://www.android.com/accessibility/live-transcribe/)
+- [Live Transcribe](https://www.android.com/accessibility/live-transcribe/)
 
 ### Blogging
 
@@ -129,15 +137,18 @@ Key:
 
 ### Vocabulary
 
+- [Glosbe](https://glosbe.com/) - Supports ALL languages in the world
 - [urbandictionary](https://www.urbandictionary.com/) 🕸
 - [dictionary.com](https://www.dictionary.com/) 🕸
 - [Oxford Dictionary](https://www.oed.com) Paperback
 - [Cambridge dictionary](https://dictionary.cambridge.org/) 🕸
 - [Webster](https://www.merriam-webster.com/) 🕸
 
-### Content Platform
+### Content Platform/ Documentation
 
 - [Docusaurus](https://docusaurus.io/)
+- [Vuepress](https://vuepress.vuejs.org/)
+  - [Vitepress](https://vitepress.dev/) (Still in beta) - VuePress' successor in future
 
 ## General
 
@@ -153,14 +164,17 @@ Key:
 
 - [Google Calendar](https://calendar.google.com) 🕸 📱
 - [Calendly](https://calendly.com/) 🕸
+- [Vyte](https://www.vyte.in/)
 
 ### Career
 
 - [LinkedIn](https://linkedin.com)
+- [Polywork](https://www.polywork.com/)
 
 ### Donating
 
 - [Ko-fi](https://ko-fi.com/)
+- [Buy me a coffee](https://www.buymeacoffee.com)
 
 ### Customers
 
@@ -176,7 +190,6 @@ Key:
 ### Learning
 
 - [Pluralsight](https://www.pluralsight.com/) (Technology, Software developer)
-- [Slideshare](https://www.slideshare.net/)
 - [Skillshare](https://skillshare.com/) (A range of skills)
 
 ### Community
@@ -219,14 +232,13 @@ Key:
 ### Code editors
 
 - [VS code](https://code.visualstudio.com/)
-- [VSCodium](https://vscodium.com/) - a community-driven, freely-licensed binary distribution of Microsoft’s editor VSCode
-- [Atom](https://atom.io/)
-- [Sublime Text](https://www.sublimetext.com/3)
+- [VSCodium](https://vscodium.com/) - a community-driven, freely-licensed binary distribution of Microsoft's editor VSCode; without Microsoft's telemetry
+- [Sublime Text](https://www.sublimetext.com/)
 
 ### Technical writing gigs
 
-- [Scotchio](https://scotch.io/)
-- [CircleCI Guest Writers Program](https://circle.ci/3ahQxfu)
+- [CircleCI Technical Authors Program](https://circle.ci/3ahQxfu)
+- [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean) (Temporarily closed for new Write4DO proposals)
 
 ### Security
 
