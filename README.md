@@ -238,6 +238,7 @@ Key:
 ### Technical writing gigs
 
 - [CircleCI Technical Authors Program](https://circle.ci/3ahQxfu)
+- [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean) (Temporarily closed for new Write4DO proposals)
 
 ### Security
 
